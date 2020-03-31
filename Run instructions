@@ -1,0 +1,8 @@
+To run this program you need to install some packages like
+1) 'pyttsx3' for conversion of text to speech.
+2) 'wikipedia' to find solution.
+3) 'datetime' to import according to the system.
+4) 'os' for operating system
+5) 'smtplib' to send basic emails through HTML.
+6) 'webbrowser' to search the web.
+7) 'speechrecognition' to recognise our speech.
